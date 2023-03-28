@@ -1,0 +1,15 @@
+indeks,slonce,temperatura,cisnienie,wiatr,decyzja
+1,slonecznie,goraco,wysokie,nie ma,nie
+2,slonecznie,goraco,wysokie,jest,nie
+3,pochmurno,goraco,wysokie,nie ma,tak
+4,deszcz,ok,wysokie,nie ma,tak
+5,deszcz,zimno,ok,nie ma,tak
+6,deszcz,zimno,ok,jest,nie
+7,deszcz,zimno,ok,jest,tak
+8,slonecznie,ok,wysokie,nie ma,nie
+9,slonecznie,zimno,ok,nie ma,tak
+10,deszcz,ok,ok,nie ma,tak
+11,slonecznie,ok,ok,jest,tak
+12,pochmurno,ok,wysokie,jest,tak
+13,pochmurno,goraco,ok,nie ma,tak
+14,deszcz,ok,wysokie,jest,nie
